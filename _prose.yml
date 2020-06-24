@@ -739,3 +739,4 @@ prose:
             translation_key: metadata_fields.source_other_info_1
             scope: source_6
   ignore: ['/scripts', '/.github']
+
